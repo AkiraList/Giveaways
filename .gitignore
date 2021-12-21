@@ -1,0 +1,5 @@
+node_modules
+config.json
+giveaways.json
+package-lock.json
+slash.js
